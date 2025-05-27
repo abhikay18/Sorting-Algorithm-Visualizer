@@ -7,7 +7,7 @@ A comprehensive and interactive web application built with **Streamlit** and **P
 
 ## 🚀 Live Demo
 
-[Try the Application]([https://your-live-demo-link.com](https://abhikay18-sorting-algorithm-visualizer-app-gozvxo.streamlit.app/)) <!-- Replace with actual live link if deployed -->
+[Try the Application](https://abhikay18-sorting-algorithm-visualizer-app-gozvxo.streamlit.app/) <!-- Replace with actual live link if deployed -->
 
 ---
 
