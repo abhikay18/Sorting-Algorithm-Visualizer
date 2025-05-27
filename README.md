@@ -7,7 +7,7 @@ A comprehensive and interactive web application built with **Streamlit** and **P
 
 ## 🚀 Live Demo
 
-[Try the Application](https://your-live-demo-link.com) <!-- Replace with actual live link if deployed -->
+[Try the Application]([https://your-live-demo-link.com](https://abhikay18-sorting-algorithm-visualizer-app-gozvxo.streamlit.app/)) <!-- Replace with actual live link if deployed -->
 
 ---
 
@@ -155,7 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
-
-**Your Name** – [@yourusername](https://github.com/yourusername) – your.email@example.com  
-**Project Link** – [GitHub Repository](https://github.com/yourusername/sorting-algorithm-visualizer)
