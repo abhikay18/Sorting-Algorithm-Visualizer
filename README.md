@@ -66,7 +66,7 @@ sorting_visualizer/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/sorting-algorithm-visualizer.git
+git clone https://github.com/abhikay18/sorting-algorithm-visualizer.git
 cd sorting-algorithm-visualizer
 pip install -r requirements.txt
 streamlit run app.py
@@ -138,14 +138,6 @@ Contributions are welcome!
 5. Open a Pull Request
 ```
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - Streamlit team for the amazing framework  
@@ -153,5 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - NumPy for efficient array operations  
 - Educational resources that inspired this project  
 
----
 
